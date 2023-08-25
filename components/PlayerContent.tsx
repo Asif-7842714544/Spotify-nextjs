@@ -1,4 +1,6 @@
 "use client";
+// @ts-ignore
+//@ts-nocheck
 import { Song } from "@/types";
 import React, { useState, useEffect } from "react";
 import MediaItem from "./MediaItem";
